@@ -1,0 +1,9 @@
+{
+    "host": "pr-lg.ru",
+    "db":{
+        "host": "localhost",
+        "user": "pinger",
+        "password": "root",
+        "database": "pinger"
+    }
+}
