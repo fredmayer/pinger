@@ -8,8 +8,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "shell-exec": "^1.0.2",
-	"mysql": "^2.16.0"
+    "moment": "^2.23.0",
+    "mysql": "^2.16.0",
+    "shell-exec": "^1.0.2"
   },
   "devDependencies": {},
   "description": ""
